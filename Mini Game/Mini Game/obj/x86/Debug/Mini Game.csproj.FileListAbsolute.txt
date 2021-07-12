@@ -1,0 +1,17 @@
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\bin\Debug\Mini Game.exe
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\bin\Debug\Mini Game.pdb
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini_Game.backGroundActor.resources
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini_Game.Properties.Resources.resources
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csproj.GenerateResource.Cache
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.exe
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.pdb
+E:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csprojResolveAssemblyReference.cache
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\bin\Debug\Mini Game.exe
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\bin\Debug\Mini Game.pdb
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csprojAssemblyReference.cache
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini_Game.backGroundActor.resources
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini_Game.Properties.Resources.resources
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csproj.GenerateResource.cache
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.csproj.CoreCompileInputs.cache
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.exe
+D:\Multimedia Project\Mini Game\Mini Game\Mini Game\obj\x86\Debug\Mini Game.pdb
